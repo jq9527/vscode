@@ -1,0 +1,3 @@
+F:/vscode/vscodeprj/test/build/CMakeFiles/edit_cache.dir
+F:/vscode/vscodeprj/test/build/CMakeFiles/main.dir
+F:/vscode/vscodeprj/test/build/CMakeFiles/rebuild_cache.dir
