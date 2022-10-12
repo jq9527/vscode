@@ -11,6 +11,9 @@ class base1 {
         virtual void show (){
            std::cout<<a;
         };
+        int geta (){
+            return a;
+        }
 };
 
 class base2: public  base1 {
@@ -20,6 +23,9 @@ class base2: public  base1 {
         base2(int b1,int b2):base1(b1),b(b2){};
        void show () {
             std::cout<<b;
+        }
+        int getb (){
+            return b;
         }
 };
 
